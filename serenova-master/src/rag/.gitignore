@@ -1,0 +1,9 @@
+venv/
+.venv/
+env/
+rag_env/
+__pycache__/
+*.pyc
+.env
+*.env
+serenova-master/src/rag/final_rag/.env

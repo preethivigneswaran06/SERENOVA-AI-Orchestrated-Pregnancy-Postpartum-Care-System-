@@ -1,0 +1,54 @@
+Condition: Hypoxia
+Trigger: SpO2 < 94%
+Meaning: Low oxygen saturation indicating possible hypoxia
+Action: Requires clinical evaluation
+
+Condition: Severe Hypoxia
+Trigger: SpO2 < 90%
+Meaning: Critical oxygen deficiency
+Action: Emergency intervention required
+
+Condition: Tachycardia
+Trigger: HR > 100 bpm
+Meaning: Elevated heart rate indicating physiological stress
+Action: Monitor for complications
+
+Condition: Severe Tachycardia
+Trigger: HR > 120 bpm
+Meaning: High-risk cardiac stress condition
+Action: Urgent medical evaluation required
+
+Condition: Fetal Distress
+Trigger: Reduced fetal movement
+Meaning: Possible fetal compromise
+Action: Immediate clinical assessment required
+
+Condition: Critical Fetal Distress
+Trigger: No fetal movement
+Meaning: Severe fetal compromise
+Action: Emergency intervention required
+
+Condition: High Risk Combination
+Trigger: SpO2 < 94% AND HR > 100 bpm
+Meaning: Combined physiological stress condition
+Action: Requires urgent attention
+
+Condition: Critical Condition
+Trigger: SpO2 < 90% AND abnormal fetal movement
+Meaning: Life-threatening maternal-fetal condition
+Action: Immediate emergency care required
+
+Condition: Multi-Parameter Risk
+Trigger: Multiple abnormal vital signs
+Meaning: High-risk pregnancy condition
+Action: Requires hospitalization
+
+Condition: Deteriorating State
+Trigger: Rapid change in vital signs
+Meaning: Unstable physiological condition
+Action: Emergency monitoring required
+
+Condition: Normal State
+Trigger: All vital signs within normal range
+Meaning: Stable maternal condition
+Action: Continue routine monitoring

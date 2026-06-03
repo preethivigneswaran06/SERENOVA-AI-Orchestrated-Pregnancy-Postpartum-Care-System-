@@ -1,0 +1,64 @@
+Condition: High Risk Pregnancy
+Trigger: Presence of risk factors
+Meaning: Increased probability of complications
+Action: Requires specialist care
+
+Condition: Preeclampsia Risk
+Trigger: Elevated blood pressure
+Meaning: Risk of hypertensive disorder
+Action: Requires monitoring and intervention
+
+Condition: Gestational Diabetes
+Trigger: High blood glucose levels
+Meaning: Metabolic disorder in pregnancy
+Action: Requires medical management
+
+Condition: Maternal Infection Risk
+Trigger: Presence of infections
+Meaning: Increased maternal and fetal complications
+Action: Requires treatment
+
+Condition: Fetal Distress
+Trigger: Reduced fetal movement
+Meaning: Compromised fetal condition
+Action: Immediate clinical evaluation required
+
+Condition: Growth Abnormality
+Trigger: Abnormal fetal growth
+Meaning: Possible developmental complication
+Action: Requires further investigation
+
+Condition: Severe Pregnancy Risk
+Trigger: Multiple maternal or fetal abnormalities
+Meaning: High severity condition
+Action: Requires hospitalization
+
+Condition: Emergency Obstetric Condition
+Trigger: Severe abnormal symptoms
+Meaning: Life-threatening situation
+Action: Immediate hospitalization required
+
+Condition: Referral Requirement
+Trigger: Persistent abnormal signs
+Meaning: Need for higher-level care
+Action: Refer to specialized healthcare center
+
+Condition: Vital Monitoring Requirement
+Trigger: Regular antenatal visits
+Meaning: Enables early detection of complications
+Action: Continue monitoring
+
+Condition: Nutrition Support
+Trigger: Nutritional deficiency
+Meaning: Increased pregnancy risk
+Action: Provide supplements (iron, calcium, folic acid)
+
+Condition: Lifestyle Risk
+Trigger: Smoking or alcohol use
+Meaning: Increased fetal risk
+Action: Avoid harmful habits
+
+Condition: Safe Delivery Planning
+Trigger: Pregnancy progression
+Meaning: Need for controlled delivery environment
+Action: Institutional delivery recommended

@@ -1,0 +1,49 @@
+Condition: Maternal Complication Risk
+Trigger: Abnormal maternal vital signs
+Meaning: Indicates possible maternal health complications
+Action: Requires monitoring and evaluation
+
+Condition: Gestational Diabetes Risk
+Trigger: Elevated blood glucose levels
+Meaning: Hyperglycaemia during pregnancy
+Action: Requires early diagnosis and management
+
+Condition: Infection Risk
+Trigger: Presence of infections (HIV, TB, urinary infection)
+Meaning: Increased maternal and fetal risk
+Action: Requires medical treatment
+
+Condition: Maternal Anemia Risk
+Trigger: Low hemoglobin levels
+Meaning: Reduced oxygen carrying capacity
+Action: Requires supplementation and treatment
+
+Condition: Fetal Compromise
+Trigger: Reduced fetal movement
+Meaning: Possible fetal distress
+Action: Immediate evaluation required
+
+Condition: High Risk Pregnancy
+Trigger: Multiple maternal abnormalities
+Meaning: Increased risk of complications
+Action: Requires higher level care
+
+Condition: Clinical Abnormality
+Trigger: Any abnormal clinical finding
+Meaning: Potential health complication
+Action: Prompt medical evaluation required
+
+Condition: Combined Risk Condition
+Trigger: Maternal abnormalities AND fetal distress
+Meaning: High-risk maternal-fetal state
+Action: Immediate intervention required
+
+Condition: Early Detection Benefit
+Trigger: Regular monitoring
+Meaning: Helps detect complications early
+Action: Continue routine antenatal care
+
+Condition: Severe Outcome Risk
+Trigger: Unmanaged maternal complications
+Meaning: Can lead to serious maternal and fetal outcomes
+Action: Immediate treatment required
